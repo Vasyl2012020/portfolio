@@ -3,7 +3,7 @@
 I am a passionate web and mobile app developer with over 6 years of experience in programming and the Internet. In my free time, I enjoy reading a book.
 
 # 💫 About Me:
-🔭 I’m currently working as a freelancer on Upwork[https://www.upwork.com/freelancers/~01328a0b3066a54724?mp_source=share].<br>🌱 I’m also reviewing Python, React, and React Native as a lead developer.<br>👯 I’m looking to a new challenging project<br>💬 Ask me about Web and Mobile App development.<br>📫 How to reach me: khruschvasyl@gmail.com, +380 93 979 54 80 , [[linkedin.com](https://www.linkedin.com/)/in/vasyl-khrushch-119351344](https://www.linkedin.com/in/vasyl-khrushch-119351344/)😄<br>
+🔭 I’m currently working as a freelancer on Upwork[ https://www.upwork.com/freelancers/~01328a0b3066a54724?mp_source=share ].<br>🌱 I’m also reviewing Python, React, and React Native as a lead developer.<br>👯 I’m looking to a new challenging project<br>💬 Ask me about Web and Mobile App development.<br>📫 How to reach me: khruschvasyl@gmail.com, +380 93 979 54 80 , [ [linkedin.com]( https://www.linkedin.com/)/in/vasyl-khrushch-119351344 ]<br>
 
 
 ## 🌐 Socials:
